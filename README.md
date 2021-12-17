@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
 Here is the solution site url-
-https://drougnov.github.io/order-summary-component-master/
+https://drougnov.github.io/Order-summary-component-master/
 
 ## Built with
 
